@@ -1,6 +1,1 @@
 fichier 1 texte 1 chef de projet en local
-texte 2 projet
-texte 3 projet
-texte 4 projet
-ligne 1
-ligne 2
